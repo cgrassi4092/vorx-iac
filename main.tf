@@ -16,7 +16,7 @@ module "vpc" {
     Terraform = "true"
     Environment = "dev"
     Team = "Engenharia de Confiabilidade"
-    BU = "Conta Digital"
+    BU = "Pix"
     CC = "10423"
   }
 }
